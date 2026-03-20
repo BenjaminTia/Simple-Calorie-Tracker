@@ -49,7 +49,7 @@ Simple Calorie Tracker/
 
 ## About the Developer
 
-Built by **Benjamin Tia** — Electronics Engineering student at HKU SPACE, passionate about iOS development, AI, and building things from scratch.
+Built by **Benjamin Tia** — Electronics Engineering student, passionate about iOS development, AI, and building things from scratch.
 
 - GitHub: [BenjaminTia](https://github.com/BenjaminTia)
 
